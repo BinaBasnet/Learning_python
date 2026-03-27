@@ -1,0 +1,10 @@
+age=20#integer
+price=10.5#float
+name="bina"
+absent=False
+students={1,2.3,True,'bina',(1,2,3)}
+List=[1,2.3,True,'bina',(1,2,3),{1,2,3},[1,2,3],{'age':20}]
+Tuple=(1,2.3,True,'bina',(1,2,3),{1,2,3},[1,2,3],{'age':20})
+ranges=range(5)
+dictionarys={'name':'bina','age':10,'absent':True,('bina','sita'):(20,30)}
+print(age,price,name,absent,students,List,Tuple,ranges,dictionarys)
